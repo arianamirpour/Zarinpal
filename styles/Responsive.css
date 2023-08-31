@@ -335,5 +335,21 @@ footer {
     width: auto;
    }
 
+   .copyright p {
+    text-align: center;
+    justify-content: center;
+    font-size: .8rem;
+   }
+
+   .so-real p {
+    text-align: center;
+    justify-content: center;
+    font-size: .8rem;
+   }
+
+   .copyright img {
+    display: none;
+   }
+
    
 }
